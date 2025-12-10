@@ -1,0 +1,6 @@
+numero = int(input("me diga um numero"))
+numero2 = int(input("agora diga outro"))
+print (f"a soma de {numero} e {numero2} e {numero+numero2}")
+print (f"e a subtração de {numero} e {numero2} e {numero-numero2}")
+print (f"a multiplicação de {numero} e {numero2} e {numero*numero2}")
+print (f"a divisao de {numero} e {numero2} e {numero/numero2}")
